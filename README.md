@@ -2,4 +2,4 @@
 
 examples of exercices that I worked for school
 
-operatii pe o lista dublu inlantuita
+introducerea in lista a unor elemente mereu ordonate
